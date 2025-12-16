@@ -1,5 +1,5 @@
 A simple CRUD application for managing teacher data.
-## Features
+Features
 - Add teacher
 - View teacher
 - Update teacher
